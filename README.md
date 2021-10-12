@@ -2,27 +2,13 @@
 
 - Currently studying
 - Looking to learn new technologies
-* You can find my list of skills on my [Linked in][linkedin]
+  - You can find my list of skills on my [LinkedIn page][linkedin]
 - I like cyberpunk genre, mechanical keyboards, cooking, chess, playing video games
-
-<br />
 
 ### My public projects
 
 - [RKO online learning](http://rko.tode.cz)
 - [Kid's clothing Webareal Eshop](https://detskamoda-zlechov.cz)
-
-<br />
-
-### Stats
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Hruboson GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hruboson&show_icons=true&hide_border=true" />
-</details>
-
-<br />
 
 ### Links
 
