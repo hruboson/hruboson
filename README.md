@@ -1,6 +1,6 @@
 ### About me
 
-- Currently studying
+- Currently studying FIT@VUT
 - Looking to learn new technologies
   - You can find my list of skills on my [LinkedIn page][linkedin]
 - I like cyberpunk genre, mechanical keyboards, cooking, chess, playing video games
