@@ -4,14 +4,15 @@
 - Learning new technologies
   - You can find my list of skills on my [LinkedIn page][linkedin]
 - I like cyberpunk genre, mechanical keyboards, cooking, chess, playing video games
-- [Human Benchmark](https://humanbenchmark.com/users/61a7ac257487eb00082f3ec8)
+- Be sure to visit my [portfolio](https://hrubos.dev) for more info about me.
 
 ### My public projects
 
 - [Vulkan Engine](https://github.com/hruboson/ExoEngine)
 - [RKO online learning](http://rko.tode.cz)
-- [Microsite for KAFOCAR](http://www.pneumatikyzlin.cz)
 - [WordPunk - Unity game](https://shiftoss.itch.io/wordpunk)
+- [Microsite for KAFOCAR](http://www.pneumatikyzlin.cz)
+- [Website portoflio](https://hrubos.dev)
 
 
 ### Tutorials
@@ -25,7 +26,7 @@
 [<img style="background: #EF3F19; border-radius: 5px" align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img  style="background: #EA7F30; border-radius: 5px" align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
-[website]: https://hruboson.4fan.cz
+[website]: https://hrubos.dev
 [twitter]: https://twitter.com/HrubosO
 [linkedin]: https://www.linkedin.com/in/ondřej-hruboš-3b496918a/
 [reddit]: https://www.reddit.com/user/Shiftoss
