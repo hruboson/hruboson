@@ -20,7 +20,8 @@
 
 ### Libraries / Other useful stuff
 - [C Bitfield Library](https://github.com/hruboson/bitset)
-- [C Wordcount/Hashtable Library]()
+- [C Hashtable Library](https://github.com/hruboson/hashtable)
+  - With wordcount program as an example
 
 ### Links
 
