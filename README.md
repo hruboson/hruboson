@@ -3,7 +3,7 @@
 - Currently studying FIT@VUT
 - Learning new technologies
   - You can find my list of skills on my [LinkedIn page][linkedin]
-- I like cyberpunk genre, mechanical keyboards, cooking, chess, playing video games
+- I like solarpunk genre, mechanical keyboards, cooking and playing video games
 - Be sure to visit my [portfolio](https://hrubos.dev) for more info about me.
 
 ### My public projects
