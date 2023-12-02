@@ -23,6 +23,9 @@
 - [C Hashtable Library](https://github.com/hruboson/hashtable)
   - With wordcount program as an example
 
+### Other
+- [Simple brainfuck interpret (processor in VHDL)](https://github.com/hruboson/Brainfuck-interpret-processor)
+
 ### Links
 
 [<img style="background-color: #38A6ED; border-radius: 5px" align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
