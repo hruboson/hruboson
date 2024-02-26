@@ -25,6 +25,7 @@
 
 ### Other
 - [Simple brainfuck interpret (processor in VHDL)](https://github.com/hruboson/Brainfuck-interpret-processor)
+- [Swift subset compiler](https://github.com/hruboson/IFJ23)
 
 ### Links
 
