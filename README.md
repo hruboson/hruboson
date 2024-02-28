@@ -18,7 +18,7 @@
 ### Tutorials
 - [Android Studio - Swipeable Interface](https://github.com/hruboson/swipeable-interface-android-studio-demo)
 
-### Libraries / Other useful stuff
+### Libraries / Modules / API
 - [C Bitfield Library](https://github.com/hruboson/bitset)
 - [C Hashtable Library](https://github.com/hruboson/hashtable)
   - With wordcount program as an example
