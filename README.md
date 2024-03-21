@@ -26,6 +26,7 @@
 ### Other
 - [Simple brainfuck interpret (processor in VHDL)](https://github.com/hruboson/Brainfuck-interpret-processor)
 - [Swift subset compiler](https://github.com/hruboson/IFJ23)
+- [UCS algorithm for 10x10 matrixes in Python (uni assignment solver)](https://github.com/hruboson/UCS)
 
 ### Links
 
