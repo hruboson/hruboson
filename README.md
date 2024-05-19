@@ -31,6 +31,7 @@
 
 ### Configurations
 - [Neovim](https://github.com/hruboson/nvim-conf)
+- [Lily58 Pro](https://github.com/hruboson/lily58pro-config)
 
 ### Links
 
