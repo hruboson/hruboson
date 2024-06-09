@@ -33,15 +33,12 @@
 - [Neovim](https://github.com/hruboson/nvim-conf)
 - [Lily58 Pro](https://github.com/hruboson/lily58pro-config)
 
-### Links
+###
 
-[<img style="background-color: #38A6ED; border-radius: 5px" align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img style="background-color: #2079AD; border-radius: 5px" align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="background-color: #EF3F19; border-radius: 5px" align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img style="background-color: #EA7F30; border-radius: 5px" align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" height="25" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo"  />
+  <img src="https://avatars.githubusercontent.com/u/70633810?v=4" width="25" height="25" alt="hruboson logo"  />
+</div>
 
-[website]: https://hrubos.dev
-[twitter]: https://twitter.com/HrubosO
-[linkedin]: https://www.linkedin.com/in/ondřej-hruboš-3b496918a/
-[reddit]: https://www.reddit.com/user/Shiftoss
-[stackoverflow]: https://stackoverflow.com/users/12547295/ondřej-hruboš
+###
