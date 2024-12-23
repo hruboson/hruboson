@@ -28,6 +28,7 @@
 - [Simple brainfuck interpret (processor in VHDL)](https://github.com/hruboson/Brainfuck-interpret-processor)
 - [UCS for 10x10 matrices in Python (uni assignment solver)](https://github.com/hruboson/UCS)
 - [ZETASniffer - a simple packet sniffer written in C++ (using libpcap)](https://github.com/hruboson/ZETASniffer)
+- [Discrete simulation study on growing lettuce using hydroponic vertical farming](https://github.com/hruboson/IMS)
 
 ### Configurations
 - [Neovim](https://github.com/hruboson/nvim-conf)
