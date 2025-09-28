@@ -1,6 +1,7 @@
 ### About me
 
-- Currently studying FIT@VUT
+- Completed my Bachelor's degree at FIT@BUT
+- Currently studying towards Master's degree at FAI@UTB
 - Learning new technologies
   - You can find my list of skills on my [LinkedIn page](https://www.linkedin.com/in/hruboson/)
 - I like solarpunk genre, mechanical keyboards, cooking and playing video games
