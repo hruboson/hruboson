@@ -16,8 +16,14 @@
 - [Microsite for KAFOCAR](http://www.pneumatikyzlin.cz)
 - [Website portoflio](https://hrubos.dev)
 
+### Configurations
+- [Neovim](https://github.com/hruboson/nvim-conf)
+- [NixOS](https://github.com/hruboson/nixos-conf)
+- [Lily58 Pro](https://github.com/hruboson/lily58pro-config)
+
 ### Tutorials
-- [Android Studio - Swipeable Interface](https://github.com/hruboson/swipeable-interface-android-studio-demo)
+- [NixOS installation and configuration](https://github.com/hruboson/nixos-conf#Manual)
+- [Android Studio - Swipeable Interface (XML)](https://github.com/hruboson/swipeable-interface-android-studio-demo)
 
 ### Libraries / Modules / API
 - [C Bitfield Library](https://github.com/hruboson/bitset)
@@ -30,10 +36,6 @@
 - [UCS for 10x10 matrices in Python (uni assignment solver)](https://github.com/hruboson/UCS)
 - [ZETASniffer - a simple packet sniffer written in C++ (using libpcap)](https://github.com/hruboson/ZETASniffer)
 - [Discrete simulation study on growing lettuce using hydroponic vertical farming](https://github.com/hruboson/IMS)
-
-### Configurations
-- [Neovim](https://github.com/hruboson/nvim-conf)
-- [Lily58 Pro](https://github.com/hruboson/lily58pro-config)
 
 ###
 
