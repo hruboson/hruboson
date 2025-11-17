@@ -10,9 +10,10 @@
 ### My public projects
 
 - [memviz - C memory visualizer and interpreter in JavaScript](https://hrubos.dev/memviz)
+- [Mangaself - offline manga/comics reader for Android](https://github.com/hruboson/mangaself)
+- [WordPunk - Unity game](https://shiftoss.itch.io/wordpunk)
 - [Vulkan Engine](https://github.com/hruboson/ExoEngine)
 - [RKO online learning](http://rko.tode.cz)
-- [WordPunk - Unity game](https://shiftoss.itch.io/wordpunk)
 - [Microsite for KAFOCAR](http://www.pneumatikyzlin.cz)
 - [Website portoflio](https://hrubos.dev)
 
