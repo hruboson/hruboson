@@ -32,6 +32,7 @@
   - With wordcount program as an example
 
 ### Smaller projects
+- [Pentelka - crossplatform raster graphics editor](https://github.com/hruboson/Pentelka)
 - [Swift subset compiler written in C (team project)](https://github.com/hruboson/IFJ23)
 - [Simple brainfuck interpret (processor in VHDL)](https://github.com/hruboson/Brainfuck-interpret-processor)
 - [UCS for 10x10 matrices in Python (uni assignment solver)](https://github.com/hruboson/UCS)
