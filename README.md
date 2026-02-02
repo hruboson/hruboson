@@ -20,6 +20,7 @@
 ### Configurations
 - [Neovim](https://github.com/hruboson/nvim-conf)
 - [NixOS](https://github.com/hruboson/nixos-conf)
+- [Chameleon](https://github.com/hruboson/chameleon-config)
 - [Lily58 Pro](https://github.com/hruboson/lily58pro-config)
 
 ### Tutorials
