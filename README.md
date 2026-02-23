@@ -11,6 +11,7 @@
 
 - [memviz - C memory visualizer and interpreter in JavaScript](https://hrubos.dev/memviz)
 - [Mangaself - offline manga/comics reader for Android](https://github.com/hruboson/mangaself)
+- [R0B1E - Godot adventure game](https://shiftoss.itch.io/R0B1E)
 - [WordPunk - Unity game](https://shiftoss.itch.io/wordpunk)
 - [Vulkan Engine](https://github.com/hruboson/ExoEngine)
 - [RKO online learning](http://rko.tode.cz)
