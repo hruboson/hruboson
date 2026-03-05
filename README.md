@@ -8,21 +8,29 @@
 - Be sure to visit my [portfolio](https://hrubos.dev) for more info about me.
 
 ### My public projects
-
 - [memviz - C memory visualizer and interpreter in JavaScript](https://hrubos.dev/memviz)
+- [Pentelka - simple crossplatform raster graphics editor](https://github.com/hruboson/Pentelka)
 - [Mangaself - offline manga/comics reader for Android](https://github.com/hruboson/mangaself)
-- [R0B1E - Godot adventure game](https://shiftoss.itch.io/R0B1E)
-- [WordPunk - Unity game](https://shiftoss.itch.io/wordpunk)
 - [Vulkan Engine](https://github.com/hruboson/ExoEngine)
 - [RKO online learning](http://rko.tode.cz)
 - [Microsite for KAFOCAR](http://www.pneumatikyzlin.cz)
 - [Website portoflio](https://hrubos.dev)
+
+#### Smaller projects
+- [ZETASniffer - a simple packet sniffer written in C++ (using libpcap)](https://github.com/hruboson/ZETASniffer)
+- [Discrete simulation study on growing lettuce using hydroponic vertical farming](https://github.com/hruboson/IMS)
+- [R0B1E - Godot adventure game](https://shiftoss.itch.io/R0B1E)
+- [WordPunk - Unity game](https://shiftoss.itch.io/wordpunk)
+- [Swift subset compiler written in C (team project)](https://github.com/hruboson/IFJ23)
+- [Simple brainfuck interpret (processor in VHDL)](https://github.com/hruboson/Brainfuck-interpret-processor)
+- [UCS for 10x10 matrices in Python (uni assignment solver)](https://github.com/hruboson/UCS)
 
 ### Configurations
 - [Neovim](https://github.com/hruboson/nvim-conf)
 - [NixOS](https://github.com/hruboson/nixos-conf)
 - [Chameleon](https://github.com/hruboson/chameleon-config)
 - [Lily58 Pro](https://github.com/hruboson/lily58pro-config)
+- [Wallpapers](https://github.com/hruboson/wallpapers)
 
 ### Tutorials
 - [NixOS installation and configuration](https://github.com/hruboson/nixos-conf#Manual)
@@ -32,14 +40,6 @@
 - [C Bitfield Library](https://github.com/hruboson/bitset)
 - [C Hashtable Library](https://github.com/hruboson/hashtable)
   - With wordcount program as an example
-
-### Smaller projects
-- [Pentelka - crossplatform raster graphics editor](https://github.com/hruboson/Pentelka)
-- [Swift subset compiler written in C (team project)](https://github.com/hruboson/IFJ23)
-- [Simple brainfuck interpret (processor in VHDL)](https://github.com/hruboson/Brainfuck-interpret-processor)
-- [UCS for 10x10 matrices in Python (uni assignment solver)](https://github.com/hruboson/UCS)
-- [ZETASniffer - a simple packet sniffer written in C++ (using libpcap)](https://github.com/hruboson/ZETASniffer)
-- [Discrete simulation study on growing lettuce using hydroponic vertical farming](https://github.com/hruboson/IMS)
 
 ###
 
